@@ -91,7 +91,7 @@ function TicTacToe() {
               <span className={winner}> {winner} </span> venceu!
             </h2>
           }
-          <button onClick={resetGame}>Recpmeçar jogo</button>
+          <button onClick={resetGame}>Recomeçar jogo</button>
         </footer>
       }
     </main>
