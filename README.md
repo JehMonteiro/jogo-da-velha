@@ -1,3 +1,16 @@
+# Jogo-da-velha em JavaScript e React
+https://jogo-da-velha-jessica.netlify.app/
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/90716662/156899517-e5b5e3f7-f4a0-483c-af6c-6c93f732b456.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
